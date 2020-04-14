@@ -1,0 +1,15 @@
+# Base Dev Requirements
+pip-compile-multi
+pip-tools
+black
+
+
+#Django
+Django==2.2.11
+
+
+#Database
+psycopg2
+
+
+#Third-Party Plugins
