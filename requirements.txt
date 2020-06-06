@@ -8,7 +8,7 @@ appdirs==1.4.3            # via black
 attrs==19.3.0             # via black
 black==19.10b0            # via -r requirements.in
 click==7.1.1              # via black, pip-compile-multi, pip-tools
-django==2.2.11            # via -r requirements.in
+django==2.2.13            # via -r requirements.in
 pathspec==0.8.0           # via black
 pip-compile-multi==1.5.9  # via -r requirements.in
 pip-tools==4.5.1          # via -r requirements.in, pip-compile-multi
